@@ -428,7 +428,7 @@
       font-weight: 450;
     }
 
-    /*************responsive****************/
+    /*************responsive*****************/
     
     @media screen and (max-width: 768px) {
       html {
@@ -469,6 +469,7 @@
         opacity: 1;
         z-index: 3;
       }
+      
       .navbarContainer .hamburgLines .lines {
         display: block;
         width: 100%;
