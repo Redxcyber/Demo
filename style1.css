@@ -98,7 +98,7 @@
       background-size: 100% 100%;
       background-position: center;
       background-repeat: no-repeat;
-      height: 50vmax;
+      height: 70em;
       width: 100%;
     }
     .headerContent {
@@ -583,6 +583,6 @@
   @media screen and (orientation:landscape) and (max-height:500px){
     
     .header {
-      height: 50vmax;
+      height: 60em;
     }
   }
