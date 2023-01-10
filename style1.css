@@ -565,6 +565,10 @@
       flex-direction: column;
       text-align: center;
     }
+    .foodMenuItems {
+      flex-direction: column;
+      text-align: center;
+     }
     .foodMenuContainer .foodMenuItems img {
       margin: auto;
     }
